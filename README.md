@@ -11,22 +11,23 @@
         </samp>
 </p>
 
+ 
+
 
 <!-- About Section -->
  # About me
  
 <p>
 
-Hey there! I'm sage, a dedicated FiveM developer hailing from the vibrant city of Sydney, Australia. With a passion for creating immersive gaming experiences, I thrive on crafting unique server environments that bring players together. From roleplay-centric communities to action-packed scripts, I enjoy diving into the intricacies of the FiveM framework to push the boundaries of what's possible. Currently, I'm focused on refining server performance, designing innovative gameplay mechanics, and constantly seeking ways to elevate the player experience. If you're looking for a collaborator on your next project or simply want to chat about all things gaming, feel free to reach out
+ - 📖 &nbsp;Hey there! I'm sage, a dedicated FiveM developer hailing from the vibrant city of Sydney, Australia. With a passion for creating immersive gaming experiences, I thrive on crafting unique server environments that bring players together. From roleplay-centric communities to action-packed scripts, I enjoy diving into the intricacies of the FiveM framework to push the boundaries of what's possible. Currently, I'm focused on refining server performance, designing innovative gameplay mechanics, and constantly seeking ways to elevate the player experience. If you're looking for a collaborator on your next project or simply want to chat about all things gaming, feel free to reach out
+
+# Work
+
+ - 🛠️ &nbsp; Currently employed as a developer for Prestige Studios:
+https://discord.gg/6nDCBw2gqr
 
  # Contact
-sagedevwork@gmail.com
-
-</p>
-
-<br/>
-<br/>
-<br/>
+ - 📧 &nbsp; sagedevwork@gmail.com
 
 ## Use To Code
 
